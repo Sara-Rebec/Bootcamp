@@ -30,11 +30,15 @@ Além de funcionar como um portfólio de aprendizado, o repositório também rep
 
 ---
 
-## 🌐 Apresentação dos slides
+## 🌐 Apresentação dos projetos via Link
 
-🔗 Acesse a apresentação do projeto:
+ Acesse a apresentação do projeto:
 
-👉 https://sara-rebec.github.io/Bootcamp/  
+ https://sara-rebec.github.io/Bootcamp/ 
+
+ https://docs.google.com/document/d/1jgqUCcFQU5Ptmx7Khzq5LtjnCmoA7DX5wi-xHd_RDwk/edit?usp=sharing
+
+ https://sites.google.com/view/sara-soares-criatividade-arte-/sara-rebeca-do-rosario-soares-criatividade-arte-e-evolu%C3%A7%C3%A3o
 
 ---
 
